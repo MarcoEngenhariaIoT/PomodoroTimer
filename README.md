@@ -11,3 +11,5 @@ Como converter para executável e rodar no Windows:
  pip install pyinstaller
 
  pyinstaller --onefile --windowed --name="PomodoroTimer" pomodoro.py
+
+<img width="622" height="814" alt="image" src="https://github.com/user-attachments/assets/1dab321f-9e38-4eed-9ec2-7f9b36926ff9" />
